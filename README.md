@@ -8,7 +8,7 @@ We used the Heart Disease dataset and performed training, evaluation, and featur
 **Dataset**
 Source: Heart Disease Dataset
 
-**Attributes: ** age, sex, chest pain type, resting blood pressure, cholesterol, maximum heart rate, ST depression, number of major vessels, etc.
+**Attributes:** age, sex, chest pain type, resting blood pressure, cholesterol, maximum heart rate, ST depression, number of major vessels, etc.
 Target: target (1 = disease, 0 = no disease)
 
 **Technologies Used:**
